@@ -1,0 +1,4 @@
+credenciais.xlsx 
+venv/ 
+__pycache__/ 
+*.pyc 
